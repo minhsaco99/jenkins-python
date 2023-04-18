@@ -7,7 +7,7 @@ pipeline {
             steps {
                 sh 'python --version'
                 echo "hoa hoa ham ham"
-                echo "213l12j3l;123jl;"
+                echo "check main"
             }
         }
     }
